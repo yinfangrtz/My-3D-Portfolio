@@ -2,7 +2,7 @@
 <img width="1461" alt="image" src="https://github.com/yinfangrtz/My-3D-Portfolio/assets/106718273/3d665e91-ee12-46d6-acac-b33241933354">
 
 ### Welcome
-Welcome to my 3D Portfolio! Please take a moment to explore the website – you can find the link positioned in the upper right.  
+Welcome to [My 3D Portfolio](https://my-3d-portfolio-full.netlify.app)! Please take a moment to explore the website!  
 
 ### Website Overview
 The "My 3D Portfolio" website is crafted using a blend of contemporary web technologies, providing an immersive and interactive platform to showcase my academic achievements, professional experiences, and front-end development projects. The following technologies have been harnessed in the creation of this website:
